@@ -1,0 +1,13 @@
+type: code
+custom_name: Woof!
+files:
+- name: src/main/Main.kt
+  visible: true
+  text: "open class Dog(val name: String, val color: String, val weight: Int) {\n\
+    \    fun printInfo() {\n        println(\"The dog's name is $name, his color is\
+    \ $color and his weight is $weight\")\n    }\n} \n// do not change the code above\
+    \ \n// write your code here"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20492#comment
+status: Unchecked
+record: -1

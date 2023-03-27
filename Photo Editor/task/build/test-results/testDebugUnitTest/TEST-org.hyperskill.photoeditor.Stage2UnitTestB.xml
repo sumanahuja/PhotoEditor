@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.photoeditor.Stage2UnitTestB" tests="7" skipped="5" failures="0" errors="0" timestamp="2023-03-27T00:13:47" hostname="Puneets-MacBook-Pro.local" time="14.714">
+  <properties/>
+  <testcase name="test01_checkImageView" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test02_checkButtonGallery" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test03_checkSliderBrightness" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test04_checkSliderNotCrashing" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test05_checkDefaultBitmapEdit" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test06_checkLoadedBitmapEdit" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="12.985"/>
+  <testcase name="test07_checkDefaultBitmapEditExhaustive" classname="org.hyperskill.photoeditor.Stage2UnitTestB" time="1.725"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK '/Users/puneetahuja/.m2/repository/org/robolectric/android-all-instrumented/10-robolectric-5803371-i3/android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+onSliderChanges job making calculations running on thread DefaultDispatcher-worker-1 @coroutine#1
+30, 0, 0, 1.0
+Brightness Filer Applied
+onSliderChanges job making calculations running on thread DefaultDispatcher-worker-1 @coroutine#3
+50, 0, 0, 1.0
+Brightness Filer Applied
+Contrast Filer not Applied
+Saturation Filer not Applied
+Gamma Filer not Applied
+onSliderChanges job updating view running on thread SDK 29 Main Thread
+onSliderChanges job making calculations running on thread DefaultDispatcher-worker-3 @coroutine#8
+150, 0, 0, 1.0
+Brightness Filer Applied
+onSliderChanges job making calculations running on thread DefaultDispatcher-worker-1 @coroutine#10
+110, 0, 0, 1.0
+Brightness Filer Applied
+Contrast Filer not Applied
+Saturation Filer not Applied
+Gamma Filer not Applied
+onSliderChanges job updating view running on thread SDK 29 Main Thread
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,4 @@
+#Mon Mar 27 13:13:22 NZDT 2023
+base.0=/Users/puneetahuja/AndroidStudioProjects/Photo Editor/Photo Editor/task/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

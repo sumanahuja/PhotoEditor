@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.photoeditor.Stage4UnitTestB" tests="9" skipped="6" failures="0" errors="0" timestamp="2023-03-27T00:14:11" hostname="Puneets-MacBook-Pro.local" time="2.817">
+  <properties/>
+  <testcase name="test01_checkSliderContrast" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test02_checkSliderContrastNotCrashingByDefault" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test03_checkContrastOnlyWithHint" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test04_checkContrastOnlyWithoutHint" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.966"/>
+  <testcase name="test05_checkBrightnessBeforeContrastWithHint" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test06_checkBrightnessBeforeContrastWithoutHint" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test07_checkBrightnessBeforeContrastWiderSample" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.986"/>
+  <testcase name="test08_checkContrastBeforeBrightnessWithHint" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test09_checkContrastBeforeBrightnessWithoutHint" classname="org.hyperskill.photoeditor.Stage4UnitTestB" time="0.862"/>
+  <system-out><![CDATA[onSliderChanges job making calculations running on thread DefaultDispatcher-worker-3 @coroutine#15
+0, 90, 0, 1.0
+Brightness Filer not Applied
+Contrast Filer Applied
+Saturation Filer not Applied
+Gamma Filer not Applied
+onSliderChanges job updating view running on thread SDK 29 Main Thread
+onSliderChanges job making calculations running on thread DefaultDispatcher-worker-3 @coroutine#20
+10, 0, 0, 1.0
+Brightness Filer Applied
+onSliderChanges job making calculations running on thread DefaultDispatcher-worker-3 @coroutine#22
+10, 90, 0, 1.0
+onSliderChanges job making calculations running on thread DefaultDispatcher-worker-1 @coroutine#23
+10, 100, 0, 1.0
+Brightness Filer Applied
+Contrast Filer Applied
+Saturation Filer not Applied
+Gamma Filer not Applied
+onSliderChanges job updating view running on thread SDK 29 Main Thread
+onSliderChanges job making calculations running on thread DefaultDispatcher-worker-1 @coroutine#29
+onSliderChanges job making calculations running on thread DefaultDispatcher-worker-2 @coroutine#30
+0, 90, 0, 1.0
+0, 100, 0, 1.0
+onSliderChanges job making calculations running on thread DefaultDispatcher-worker-4 @coroutine#31
+10, 100, 0, 1.0
+Brightness Filer Applied
+Contrast Filer Applied
+Saturation Filer not Applied
+Gamma Filer not Applied
+onSliderChanges job updating view running on thread SDK 29 Main Thread
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
